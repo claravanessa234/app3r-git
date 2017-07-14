@@ -1,0 +1,164 @@
+@charset "utf-8";
+/* CSS Document */
+ /*Estilo del Index */
+ body{ u
+ }
+.titulo{
+	text-align:center;
+	color:#FFF;
+	size:40px;
+	font-family:"Comic Sans MS", cursive;
+	
+}
+.tio{
+	text-align:center;
+	color:#FFF;
+	size:50px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.pap{
+	text-align:center;
+	color:#FFF;
+	size:50px;
+	font-family:Arial, Helvetica, sans-serif;
+	
+}
+.tipo{
+	color:#FFF;
+	size:50px;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	
+}
+.poni{
+	color:#FFF;
+	font-family:"Times New Roman", Times, serif;
+}
+.moni{
+	text-align:center;
+}
+.pop{
+	text-align:center;
+	color:#00F;
+	font-family:"chiller";
+	font-size:50px;
+	
+}
+.cac{
+	color:#FFF;
+	font-family:"Comic Sans MS", cursive;
+	font-size:36px;
+	text-align:center;
+}
+.moo{
+	color:#FFF;
+	font-family:"chiller";
+	font-size:36px;
+}
+.texto{
+	font-family:"Comic Sans MS", cursive;
+	color:#C0C;
+	font-size:24px;
+}
+campo{
+	font-family:"Comic Sans MS", cursive;
+	color:#C0C;
+	font-size:24px;
+	
+}
+.chango{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color:#FFF;
+	font-size:36px;
+	text-align:center;
+	
+}
+.moto{
+	font-family:"Comic Sans MS", cursive;
+	color:#909;
+	text-align:center;
+	
+}
+.moca{
+	color:#142BDF;
+	font-family:"Comic Sans MS", cursive;
+	font-size:24px;
+	text-align:center;
+}
+.te2{
+	text-align:center;
+}
+
+.bton{
+	position:absolute;
+	left:50%;
+	top:4.5%;
+	
+}
+.bton1 {
+	position:absolute;
+	right:50%;
+	top:4.5%;
+
+}
+.pato{
+	
+	
+}
+carnal{
+	text-align:center;
+}
+
+.no{
+	text-align:center;
+	font-family:"Comic Sans MS", cursive;
+	font-size:20px;
+	color:#142BDF;
+}
+.mi{
+	color:#142BDF;
+	font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	font-size:20px;
+	
+	
+}
+.li{
+	color:#142BDF;
+	font-size:36px;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+.pooo{
+		color:#142BDF;
+	font-size:36px;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	
+}
+.yu{
+	color:#C718D8;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size:36px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
